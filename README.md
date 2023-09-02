@@ -3,7 +3,7 @@ App examples to show how [OtherApps](https://github.com/OtherExit/OtherApps) wor
 
 
 
-## input_database
+## Input_example
 - Copy the folder to your projects folder
 
 ![Screenshot 1](https://raw.githubusercontent.com/OtherExit/OtherApps-Examples/main/res/im1.png)
