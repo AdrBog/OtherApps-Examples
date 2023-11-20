@@ -4,6 +4,9 @@ App examples to show how [OtherApps](https://github.com/AdrBog/OtherApps) works.
 ## Libre Lists Sample
 A small application that makes a connection to a Libre Lists database table and then displays its contents.
 
+## Menu template
+A template with a functional drop-down menu.
+
 ## OLD Examples
 These examples were made with an old version of Other Apps and they do not work in Other Apps (< 0.5.0)
 
