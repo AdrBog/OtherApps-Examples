@@ -12,5 +12,6 @@ With a functional and customizable drop-down menu.
 
 ## How to import
 - Just copy this folder to your project directory **(PROJECT_DIR)**
+- Make sure that the folder where 1.xml and menu.xml are located is named **menu_template**
 
 This template was created with Other Apps 0.5.0, it will not work with older versions.
